@@ -34,8 +34,8 @@ import dotenv from 'dotenv'
 //ＮＯＴＩＣＥ: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +263719647303
-global.confirmCode = "" 
+global.botNumberCode = "+254704873097" //Example: +263719647303
+global.confirmCode = "254704873097" 
 
 
 //--------❄️ＭＲ ＦＲＡＮＫ❄️----------
@@ -45,7 +45,7 @@ global.confirmCode = ""
 global.isBaileysFail = false
 
 
-//global.pairingNumber = "" //+254792105520
+//global.pairingNumber = "254704873097" //
 global.mods = ['263719647303'] 
 global.prems = ['263719647303']
 global.allowed = ['263719647303']
